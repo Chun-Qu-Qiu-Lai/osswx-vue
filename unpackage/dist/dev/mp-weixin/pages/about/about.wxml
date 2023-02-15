@@ -1,0 +1,1 @@
+<view class="data-v-92c79dbc"><cu-custom vue-id="1cea7424-1" bgColor="#ffffff" isBack="{{true}}" class="data-v-92c79dbc" bind:__l="__l" vue-slots="{{['backText','content']}}"><view slot="backText" class="data-v-92c79dbc">返回</view><view slot="content" class="data-v-92c79dbc">关于软件</view></cu-custom></view>
